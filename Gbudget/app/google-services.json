@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "809528348855",
+    "project_id": "gbudget-d52e8",
+    "storage_bucket": "gbudget-d52e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809528348855:android:a900b4230dd6007d193d32",
+        "android_client_info": {
+          "package_name": "com.amalou.gbudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809528348855-v4g81jmi31fcoctadhqc7ms8uteumht7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8w0DGjcCAXlIun7uIR8ANshWUC0bVrE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809528348855-v4g81jmi31fcoctadhqc7ms8uteumht7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809528348855:android:dd5ea31f31a8399a193d32",
+        "android_client_info": {
+          "package_name": "com.example.gbudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809528348855-v4g81jmi31fcoctadhqc7ms8uteumht7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8w0DGjcCAXlIun7uIR8ANshWUC0bVrE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809528348855-v4g81jmi31fcoctadhqc7ms8uteumht7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
